@@ -16,7 +16,7 @@ A beautifully designed and fully responsive hero section for a luxury watch bran
 
 ## Demo
 
-You can view the live project here: [Deployment Link](#)
+You can view the live project here: [https://watch-animated-page.netlify.app](#)
 
 ---
 
@@ -26,7 +26,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/animated-hero-section.git
+   git clone git@github.com:Dev-Farhan/Animated-Landing-Page.git
    ```
 2. Navigate to the project directory:
    ```bash
