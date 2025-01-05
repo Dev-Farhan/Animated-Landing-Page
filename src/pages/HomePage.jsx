@@ -163,7 +163,7 @@ const HomePage = () => {
         >
           <GoChevronLeft
             onClick={handlePrev}
-            className="text-3xl md:text-4xl text-white border border-white p-1 rounded-full hover:text-blue-600 cursor-pointer"
+            className="text-3xl md:text-4xl text-white border border-white p-1 rounded-full hover:text-gray-600 hover:border-gray-600 cursor-pointer"
           />
           <motion.img
             src={watches[currentIndex].image}
@@ -176,7 +176,7 @@ const HomePage = () => {
           />
           <GoChevronRight
             onClick={handleNext}
-            className="text-3xl md:text-4xl text-white border border-white p-1 rounded-full hover:text-blue-600 cursor-pointer"
+            className="text-3xl md:text-4xl text-white border border-white p-1 rounded-full hover:text-gray-600 hover:border-gray-600 cursor-pointer"
           />
         </motion.div>
       </motion.div>
