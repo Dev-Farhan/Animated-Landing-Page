@@ -16,7 +16,7 @@ A beautifully designed and fully responsive hero section for a luxury watch bran
 
 ## Demo
 
-You can view the live project here: [https://watch-animated-page.netlify.app](#)
+You can view the live project here: [Live](https://watch-animated-page.netlify.app/)
 
 ---
 
